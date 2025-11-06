@@ -186,7 +186,7 @@
 
   <!-- Footer -->
   <footer class="main-footer">
-    <strong>Developed by:</strong> Melani Yaribeth Cruz Sorola - Tecmilenio
+    <strong>Developed by:</strong> Monica Yuliana Alvarado Tamayo - Sharon Chelsea Morales Torres - Melani Yaribeth Cruz Sorola - Tecmilenio
   </footer>
 
   <!-- Scripts -->
